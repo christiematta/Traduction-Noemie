@@ -4,7 +4,7 @@
     "strings": {
         "Pas d'autorole" : "No autorole defined",
         "Pas de channel log définie" : "No logs channel defined",
-        "Pas de channel report définie" : "No reports channel defined",
+        "Pas de channel report définie" : "No repors channel defined",
         "Configuration du bot sur le serveur" :"Server configuration",
 
         "♖ Prefix" :  "♖ Prefix", 
@@ -102,7 +102,7 @@
         "Vous voulez rien me faire répéter ?" : "Message is empty",
         "Votre message contient un lien d'invitation je ne peux envoyer votre message" : "The message contain an invite link, I can't send that.",
         "Vous avez tenté de faire un ``@everyone`` ou ``@here``, je ne peux envoyer votre message" : "The message contain ``@everyone`` ou ``@here``, I can't send that.",
-        "Il te faut entrée une suggestions!" : "Input some suggestions !",
+        "Il te faut entrée une suggestions!" : "You need to input a suggestion !",
 
         "Suggestion" : "Suggestion",
         "Suggestion de" : "{user}'s suggestion",
